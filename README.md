@@ -1,5 +1,5 @@
 # CaC---Blog-de-Viajes
-# CaC---Blog-de-Viajes
+
 Trabajo en grupo realizado en el Curso de Python, primera etapa: FrontEnd del Programa Vodo a Codo del GCBA. Profesor: Arturo Grottoli.
 Grupo 3: Valentin Rodriguez
          Guido Matteo
